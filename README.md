@@ -12,18 +12,21 @@
 Materia: Desarrollo Móvil Integral. <br><br>
 Alumno: Daniel Arroyo Méndez <br><br>
 Matrícula: 200570 <br><br>
-Práctica 12: Implementacion de un paginador para mostrar el resultado de polulares, proximamente, al aire y mejor valoradas.
+Práctica 13: Implementacion de un paginador para mostrar el resultado de polulares, proximamente, al aire y mejor valoradas.
+
  <br><br>
 Descripción: Continuamos con la aplicación, en esta parte agregamos archivos, con los cuales obtuvimos que salieran carteleras distintas dependiendo el paginador, ambas muestran información distinta. Es una aplicación desarrollada en Flutter y es una app centrada en la visualización de peliculas y series populares. Permite a los usuarios acceder a una amplia gama de series televisivas y explorar contenido variado y actualizado. Con una interfaz amigable e intuitiva, los usuarios pueden descubrir información relevante sobre cada serie, incluyendo su título, calificación promedio, sinopsis, fecha de lanzamiento y géneros asociados. Además, la aplicación ofrece la posibilidad de ver los pósters de las series para obtener una vista previa visual. Al brindar acceso rápido a estas series populares, la app se convierte en un hub digital para entusiastas del entretenimiento, facilitando la elección de series para ver y mantenerse al día con las últimas tendencias.
-<br><br>
-Fecha entrega: 20 de octubre del 2023
-</div>
 
+<br><br>
+Fecha entrega: 23 de octubre del 2023
+</div>
 <br>
 
 ### Imágenes de la APP
 
 <div style="text-align: center">
-    <img src="https://github.com/DanyWhizzBang/DMI_Practica12_200570/blob/main/assets/ss1.png?raw=true" alt="Imagen 1" width="400" height="850"/>
-    <img src="https://github.com/DanyWhizzBang/DMI_Practica12_200570/blob/main/assets/ss2.png?raw=true" alt="Imagen 2" width="400" height="850"/>
+    <img src="https://github.com/DanyWhizzBang/DMI_Practica13_200570/blob/main/assets/ss1.png?raw=true" alt="Imagen 1" width="400" height="850"/>
+    <img src="https://github.com/DanyWhizzBang/DMI_Practica13_200570/blob/main/assets/ss2.png?raw=true" alt="Imagen 2" width="400" height="850"/>
+    <img src="https://github.com/DanyWhizzBang/DMI_Practica13_200570/blob/main/assets/ss3.png?raw=true" alt="Imagen 2" width="400" height="850"/>
+
 </div>
